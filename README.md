@@ -1,3 +1,3 @@
 # Hello-world!
 
-This is a test change and i'm still trying to figure out what am i doing with git  xdd
+This is a test, and I'll upload something when I end the course.
